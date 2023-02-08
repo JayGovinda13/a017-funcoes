@@ -18,4 +18,4 @@ const tab = (num,) => {
         ${num * 10}`)
 }
 
-tab()
+tab(5)
